@@ -1,9 +1,9 @@
-# Commit Message Prompt
+# Instruções para Mensagens de Commit com Copilot
 
-You are an AI assistant helping to write commit messages. Follow these rules:
+1. Siga rigorosamente o padrão Conventional Commits.
+2. Inclua um gitmoji relevante após o tipo/escopo.
+3. Escreva uma descrição concisa e informativa.
+4. Adicione um corpo se necessário, usando bullet points para clareza.
+5. Certifique-se de que a mensagem seja clara, profissional e facilite o rastreamento do projeto.
 
-- Use the Conventional Commits format strictly.
-- Include a relevant gitmoji after the type/scope.
-- Write a concise, informative description.
-- Add a body if more context is needed, using bullet points for clarity.
-- Ensure the message is clear, professional, and aids project tracking.
+> Estas instruções são aplicadas automaticamente a todas as mensagens de commit neste repositório.
